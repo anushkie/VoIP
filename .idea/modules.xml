@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.Voip.iml" filepath="$PROJECT_DIR$/.idea/modules/com.Voip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.Voip_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.Voip_main.iml" group="com.Voip" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.Voip_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.Voip_test.iml" group="com.Voip" />
+    </modules>
+  </component>
+</project>
